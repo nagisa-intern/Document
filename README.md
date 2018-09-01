@@ -30,6 +30,7 @@
 | comic_id | INT | true | 作品id | false | 外部key comic(id) |
 | title | VARCHAR(255) | true | 作品データタイトル | false | |
 | episode | INT | false | 話数 | false | |
+| page | INT | false | ページ数 | false | |
 
 ## comic_author
 
